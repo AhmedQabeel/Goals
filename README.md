@@ -12,3 +12,9 @@ GOALS - تطبيق إدارة الأهداف البسيط
 📊 تصنيف الأهداف حسب الفئة (صحية، تعليمية، اجتماعية، إلخ).
 
 🔔 إشعارات لتذكيرك بأهدافك.
+
+![Image](https://github.com/user-attachments/assets/20c6b299-a400-4388-aafd-ca4470c540ba)
+
+![Image](https://github.com/user-attachments/assets/5aed8d1d-f0a0-4387-b5e4-92ef0a6dd7a9)
+
+![Image](https://github.com/user-attachments/assets/ec9e2f05-fb0d-40d3-9559-db69811a4ceb)
