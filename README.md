@@ -1,16 +1,14 @@
 # goals
+GOALS - تطبيق إدارة الأهداف البسيط
+تطبيق Goals يساعدك على تنظيم وتحقيق أهدافك اليومية، الأسبوعية، والشهرية بطريقة بسيطة وسهلة. يمكنك إضافة الأهداف، تعديلها، أو حذفها حسب احتياجاتك.
 
-A new Flutter project.
+✨ الميزات الرئيسية
+✅ إضافة أهداف جديدة (يومية، أسبوعية، شهرية).
 
-## Getting Started
+✏️ تعديل الأهداف الموجودة.
 
-This project is a starting point for a Flutter application.
+🗑️ حذف الأهداف عند إنجازها.
 
-A few resources to get you started if this is your first Flutter project:
+📊 تصنيف الأهداف حسب الفئة (صحية، تعليمية، اجتماعية، إلخ).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🔔 إشعارات لتذكيرك بأهدافك.
